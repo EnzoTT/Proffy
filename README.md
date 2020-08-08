@@ -50,7 +50,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/EnzoTT/Proffy
 
 # Entrar no diretório
 cd proffy-discovery
